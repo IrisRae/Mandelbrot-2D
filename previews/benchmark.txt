@@ -1,0 +1,6 @@
+GPU: NVIDIA GeForce RTX 5060 Laptop GPU/PCIe/SSE2
+OpenGL: 3.3.0 NVIDIA 592.01
+Deep zoom fp64: yes
+Quality 0 internal 640x400 GPU mean 0.0481387ms peak 0.04944ms; RGBA8 0.976562 MiB
+Quality 1 internal 960x600 GPU mean 0.163925ms peak 0.797408ms; RGBA8 2.19727 MiB
+Quality 2 internal 1280x800 GPU mean 0.757707ms peak 0.80848ms; RGBA8 3.90625 MiB

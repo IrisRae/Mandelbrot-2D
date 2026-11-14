@@ -1,0 +1,37 @@
+{
+  "win32_key_checks": [
+    "Ember",
+    "Classic",
+    "Fine",
+    "60fps",
+    "Spin",
+    "Still",
+    "Glow 0",
+    "Glow 1.1",
+    "Balanced"
+  ],
+  "memory_batches": [
+    {
+      "private_mib": 354.66,
+      "working_mib": 82.1
+    },
+    {
+      "private_mib": 338.59,
+      "working_mib": 95.34
+    },
+    {
+      "private_mib": 338.59,
+      "working_mib": 95.36
+    },
+    {
+      "private_mib": 362.73,
+      "working_mib": 91.46
+    },
+    {
+      "private_mib": 334.68,
+      "working_mib": 91.53
+    }
+  ],
+  "resizes_and_quality_changes": 120,
+  "exit_code": 0
+}
